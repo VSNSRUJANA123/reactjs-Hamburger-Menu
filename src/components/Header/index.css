@@ -1,0 +1,22 @@
+.hamburgerContainer {
+  padding: 17px;
+  display: flex;
+  justify-content: space-between;
+}
+.hamburgerContainer img {
+  width: 60px;
+}
+.menu {
+  font-size: 35px;
+  cursor: pointer;
+}
+.trigger-button {
+  text-align: right;
+}
+.navbarContainer {
+  margin: 0;
+  padding: 0;
+  width: 150%;
+  background-color: red;
+  height: 100vh;
+}

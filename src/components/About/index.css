@@ -1,0 +1,8 @@
+.homeContainers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.homeContainer img {
+  width: 50%;
+}
